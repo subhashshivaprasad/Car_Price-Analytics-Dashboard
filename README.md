@@ -7,5 +7,5 @@ Explore how features such as brand, model year, mileage, transmission, and fuel 
 
 **Tools used:**  
 - Tableau – data visualization & interactive dashboard  
-- Excel (or CSV) – data cleaning and preparation  
-- (Optional) Python / Pandas – additional preprocessing & exploration
+- Pytho – data cleaning and preparation  
+
